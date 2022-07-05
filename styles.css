@@ -115,10 +115,6 @@ li a {
   color: #ffffff;
 }
 
-.button {
-  transition: background 700ms;
-}
-
 li:hover {
   background-color: #2c47b4;
 }
