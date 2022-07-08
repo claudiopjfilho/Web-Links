@@ -145,17 +145,3 @@ section {
 .social-links li a:hover {
   background-color: #2c47b4;
 }
-
-footer {
-  display: block;
-
-  text-align: right;
-  margin-right: 5%;
-
-  color: white;
-
-  font-family: "Roboto";
-  font-style: oblique;
-
-  opacity: 30%;
-}
