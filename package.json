@@ -2,6 +2,7 @@
   "dependencies": {
     "git": "^0.1.5",
     "github": "^14.0.0",
-    "gitignore": "^0.7.0"
+    "gitignore": "^0.7.0",
+    "jquery": "^3.6.0"
   }
 }
