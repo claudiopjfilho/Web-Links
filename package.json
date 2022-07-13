@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "dependencies": {
     "git": "^0.1.5",
@@ -6,3 +7,13 @@
     "jquery": "^3.6.0"
   }
 }
+=======
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "gitignore": "^0.7.0",
+    "jquery": "^3.6.0"
+  }
+}
+>>>>>>> db236ef24e42230eeb8ee5ea7bfadbf27e03186e
