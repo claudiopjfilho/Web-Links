@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function screenResize() {
   $(window).on("resize", function (e) {
     checkScreenSize();
   });
